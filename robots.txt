@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neixechei.oresamalee.com/sitemap.xml
